@@ -11,6 +11,7 @@
 		4119B947289044DA0058212E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4119B946289044DA0058212E /* ContentView.swift */; };
 		4119B949289044DF0058212E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4119B948289044DF0058212E /* Assets.xcassets */; };
 		4119B94C289044DF0058212E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4119B94B289044DF0058212E /* Preview Assets.xcassets */; };
+		4119B95328904C670058212E /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4119B95228904C670058212E /* SwiftyJSON.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		4119B946289044DA0058212E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		4119B948289044DF0058212E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4119B94B289044DF0058212E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		4119B95228904C670058212E /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SwiftyJSON.swift; path = ../../../../SwiftyJSON.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 				4119B944289044DA0058212E /* Programming_JokesApp.swift */,
 				4119B946289044DA0058212E /* ContentView.swift */,
 				4119B948289044DF0058212E /* Assets.xcassets */,
+				4119B95228904C670058212E /* SwiftyJSON.swift */,
 				4119B94A289044DF0058212E /* Preview Content */,
 			);
 			path = "Programming Jokes";
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4119B95328904C670058212E /* SwiftyJSON.swift in Sources */,
 				4119B947289044DA0058212E /* ContentView.swift in Sources */,
 				4119B945289044DA0058212E /* Programming_JokesApp.swift in Sources */,
 			);
